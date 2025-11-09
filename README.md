@@ -13,13 +13,14 @@ GND shared between Stick and Button.
 | STICK DOWN      | PIN 2           |
 | STICK LEFT      | PIN 3           |
 | STICK RIGHT     | PIN 4           |
-| BUTTON  (A)     | PIN 9           |
+| TRIGGER         | PIN 6           |
 | STICK GND       | GND PIN 8       |
 | BUTTON GND      | GND PIN 8       |
 
 OPTIONALS:
 | Joystick        | DB9             |  
 | :-------------: | :-------------: |
+| BUTTON  (A)     | PIN 9           |
 | BUTTON  (B)     | PIN 5           |
 | 5V+             | PIN 7           |
 
