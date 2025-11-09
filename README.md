@@ -7,6 +7,7 @@ An old style Atari Joystick with a single button and DB9 connector.
 No need for a board in between, just connect the pins directly as regular basic Atari DB9 expects the pins set to ground to be activated.
 GND shared between Stick and Button.
 
+MINIMUM REQUIRED:
 | Joystick        | DB9             |  
 | :-------------: | :-------------: |
 | STICK GND       | GND PIN 8       |
@@ -18,6 +19,8 @@ GND shared between Stick and Button.
 | BUTTON  (A)     | PIN 9           |
 
 OPTIONALS:
+| Joystick        | DB9             |  
+| :-------------: | :-------------: |
 | BUTTON  (B)     | PIN 5           |
 | 5V+             | PIN 7           |
 
