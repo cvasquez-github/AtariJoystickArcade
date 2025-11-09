@@ -17,13 +17,6 @@ GND shared between Stick and Button.
 | STICK GND       | GND PIN 8       |
 | BUTTON GND      | GND PIN 8       |
 
-OPTIONALS:
-| Joystick        | DB9             |  
-| :-------------: | :-------------: |
-| BUTTON  (A)     | PIN 9           |
-| BUTTON  (B)     | PIN 5           |
-| 5V+             | PIN 7           |
-
 ## 3D Model in Blender: 
 https://github.com/cvasquez-github/AtariJoystickArcade/raw/main/joystick_atari7.blend
 
